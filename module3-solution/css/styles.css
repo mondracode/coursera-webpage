@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card-section p, h2{
+    padding: 20px;
+}
+
+.card-section {
+    background-color: #AAA;
+}
+
+@media(max-width: 991px){
+
+    .container-fluid{
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    
+}
